@@ -1,0 +1,6 @@
+﻿Name,NRIC,Age,MaritalStatus,Password,AppliedID,Status,FlatType
+John,S1234567A,35,Single,password,-1,NOT_APPLIED,
+Sarah,T7654321B,40,Married,password,-1,NOT_APPLIED,
+Grace,S9876543C,37,Married,password,-1,NOT_APPLIED,
+James,T2345678D,30,Married,password,-1,NOT_APPLIED,
+Rachel,S3456789E,25,Single,password,-1,NOT_APPLIED,
